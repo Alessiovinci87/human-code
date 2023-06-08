@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2023-06-08T14:05:54.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VDj1gBU2r6HBw9zJfbmN" version="21.3.7" type="device">
+  <diagram name="Pagina-1" id="d6tOD-URauzbSQAL5Zr0">
+    <mxGraphModel dx="940" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-2" target="zH0aRGqmzRBxrMGYIVPE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-2" value="Inizio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="220" />
+              <mxPoint x="400" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-3" value="Prendere un nuovo pacchetto di figurine" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-5" target="zH0aRGqmzRBxrMGYIVPE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-5" value="Aprire il pacchetto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-8" value="Sfilare le figurine dal pacchetto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-10" target="zH0aRGqmzRBxrMGYIVPE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-10" value="Controllare tutte le figurine una ad una" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-12" target="zH0aRGqmzRBxrMGYIVPE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-12" value="Verificare album" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-14" target="zH0aRGqmzRBxrMGYIVPE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-14" target="zH0aRGqmzRBxrMGYIVPE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-14" value="Se la figurina è nuova" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-19" target="zH0aRGqmzRBxrMGYIVPE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-19" value="Attacco la figurina" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-21" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-22" target="zH0aRGqmzRBxrMGYIVPE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-22" value="Metto la figurina nel mazzo dei doppioni per scambiarla con gli amici&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-24" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="668" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-28" target="zH0aRGqmzRBxrMGYIVPE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-28" value="Lo scambio di figurine con gli amici avverrà sabato" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-32" target="zH0aRGqmzRBxrMGYIVPE-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1200.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="945" />
+              <mxPoint x="750" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-32" target="zH0aRGqmzRBxrMGYIVPE-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-32" value="Oggi è sabato?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="910" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-36" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-40" target="zH0aRGqmzRBxrMGYIVPE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-40" value="Scambio&amp;nbsp; i doppioni&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-42" value="SI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-45" target="zH0aRGqmzRBxrMGYIVPE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zH0aRGqmzRBxrMGYIVPE-45" target="zH0aRGqmzRBxrMGYIVPE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-45" value="La figurina mi manca?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1010" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-47" value="Fine" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-54" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zH0aRGqmzRBxrMGYIVPE-55" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
